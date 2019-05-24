@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/qiita-mystocks-with-react/precache-manifest.c15de7fb9318b04a21eb2b8a61072869.js"
+  "/qiita-mystocks-with-react/precache-manifest.d3739aee3fef6e13880e7186a331655e.js"
 );
 
 self.addEventListener('message', (event) => {

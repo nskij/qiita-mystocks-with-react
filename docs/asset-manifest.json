@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/qiita-mystocks-with-react/static/css/main.2cce8147.chunk.css",
-    "main.js": "/qiita-mystocks-with-react/static/js/main.cc1e48fd.chunk.js",
-    "main.js.map": "/qiita-mystocks-with-react/static/js/main.cc1e48fd.chunk.js.map",
+    "main.css": "/qiita-mystocks-with-react/static/css/main.34de6062.chunk.css",
+    "main.js": "/qiita-mystocks-with-react/static/js/main.8e1369f0.chunk.js",
+    "main.js.map": "/qiita-mystocks-with-react/static/js/main.8e1369f0.chunk.js.map",
     "runtime~main.js": "/qiita-mystocks-with-react/static/js/runtime~main.b94225a6.js",
     "runtime~main.js.map": "/qiita-mystocks-with-react/static/js/runtime~main.b94225a6.js.map",
-    "static/js/2.b41502e9.chunk.js": "/qiita-mystocks-with-react/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/qiita-mystocks-with-react/static/js/2.b41502e9.chunk.js.map",
+    "static/js/2.a384e20b.chunk.js": "/qiita-mystocks-with-react/static/js/2.a384e20b.chunk.js",
+    "static/js/2.a384e20b.chunk.js.map": "/qiita-mystocks-with-react/static/js/2.a384e20b.chunk.js.map",
     "index.html": "/qiita-mystocks-with-react/index.html",
-    "precache-manifest.c15de7fb9318b04a21eb2b8a61072869.js": "/qiita-mystocks-with-react/precache-manifest.c15de7fb9318b04a21eb2b8a61072869.js",
+    "precache-manifest.d3739aee3fef6e13880e7186a331655e.js": "/qiita-mystocks-with-react/precache-manifest.d3739aee3fef6e13880e7186a331655e.js",
     "service-worker.js": "/qiita-mystocks-with-react/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/qiita-mystocks-with-react/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/qiita-mystocks-with-react/static/media/logo.5d5d9eef.svg"
+    "static/css/main.34de6062.chunk.css.map": "/qiita-mystocks-with-react/static/css/main.34de6062.chunk.css.map"
   }
 }
