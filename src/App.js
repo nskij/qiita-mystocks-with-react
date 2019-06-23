@@ -16,10 +16,7 @@ function App() {
     <BrowserRouter>
       <div className="App">
         <header className="App-header">
-        <Route exact path="/" component={Stocks} />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
+          <Route exact path="/" component={Stocks} />
         </header>
       </div>
       </BrowserRouter>
