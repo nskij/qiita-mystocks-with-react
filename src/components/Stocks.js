@@ -45,7 +45,7 @@ class Stocks extends React.Component {
           {this.state.stocks.map((item) => (
             <React.Fragment key={item.id}>
               <li>
-              <a href="{item.url}">{item.title}</a>
+                <a href={item.url} target="_blank">{item.title}</a>
               </li>
               <span>
                 Likes: {item.likes_count}
