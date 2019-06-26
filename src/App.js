@@ -13,12 +13,12 @@ const store = createStore(reducer, applyMiddleware(thunk))
 function App() {
   return (
     <Provider store={store}>
-    <BrowserRouter>
-      <div className="App">
-        <header className="App-header">
-          <Route exact path="/" component={Stocks} />
-        </header>
-      </div>
+      <BrowserRouter>
+        <div className="App">
+          <header className="App-header">
+            <Route exact path="/" component={Stocks} />
+          </header>
+        </div>
       </BrowserRouter>
     </Provider>
   );
